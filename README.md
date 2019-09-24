@@ -1,5 +1,5 @@
 # Intro to Django routes/endpoints graded classwork 
-
+#### Please Comment your code. Please use .gitignore. You succsessfully made the app and added a reference point but you didn't set it up. You need to go into urls.py in your "project" and make the path: path('',include(endpoint66_app.urls)),. Then inside your "app" you need to make a urls.py file to input url patterns then link it to views. 1/5 Score: 1/3
 Endpoints are the most important concept when it comes to backend web services. Based on the URL you route the request to the proper piece of code to service the request and return a response.
 
 In the Django implementation, you have a default set of endpoints, but can have specific ones for the various applications that make your overall implementation.
